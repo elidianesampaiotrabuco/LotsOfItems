@@ -1,3 +1,4 @@
+/*
 using HarmonyLib;
 
 namespace LotsOfItems.Patches;
@@ -15,3 +16,4 @@ static class ActivityFixPatch
         return false;
     }
 }
+*/
