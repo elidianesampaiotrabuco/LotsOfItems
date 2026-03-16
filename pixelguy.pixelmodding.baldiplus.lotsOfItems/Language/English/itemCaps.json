@@ -1,0 +1,694 @@
+{"items":[
+	{"key":"LtsOItems_SquareYtp_Name","value":"Square YTP"},
+	{"key":"LtsOItems_SquareYtp_Desc","value":"<b>YTP VARIANT</b>\nSquare YTP\nGives you the highest digit that is above 0 in your YTP counter squared by 2.25.\nIf your YTP counter is all 0, it gives you a default value of 35."},
+	
+	{"key":"LtsOItems_SquareRootYtp_Name","value":"Square Root YTP"},
+	{"key":"LtsOItems_SquareRootYtp_Desc","value":"<b>YTP VARIANT</b>\nSquare Root YTP\nGives you the square root of the amount of points you got.\nThe minimum amount it can give to you is 1."},
+	
+	{"key":"LtsOItems_FakeGreenYtp_Name","value":"Fake Green YTP"},
+	{"key":"LtsOItems_FakeGreenYtp_Desc","value":"<b>YTP VARIANT</b>\nFake Green YTP\nGives you <b>-25</b> YTPs."},
+	
+	{"key":"LtsOItems_FakeSilverYtp_Name","value":"Fake Silver YTP"},
+	{"key":"LtsOItems_FakeSilverYtp_Desc","value":"<b>YTP VARIANT</b>\nFake Silver YTP\nGives you <b>-50</b> YTPs."},
+	
+	{"key":"LtsOItems_FakeGoldenYtp_Name","value":"Fake Golden YTP"},
+	{"key":"LtsOItems_FakeGoldenYtp_Desc","value":"<b>YTP VARIANT</b>\nFake Golden YTP\nGives you <b>-100</b> YTPs."},
+	
+	{"key":"LtsOItems_PiYtp_Name","value":"PI YTP"},
+	{"key":"LtsOItems_PiYtp_Desc","value":"<b>YTP VARIANT</b>\nPI YTP\nGives you 3 YTPs - but has a chance for 31 and an even rarer one for 314 YTPs."},
+	
+	{"key":"LtsOItems_DancingYtp_Name","value":"Dancing YTP"},
+	{"key":"LtsOItems_DancingYtp_Desc","value":"<b>YTP VARIANT</b>\nDancing YTP\nGives 65 YTPs, but its unique function is to bounce like crazy in the room it spawns."},
+	
+	{"key":"LtsOItems_MysteryYtp_Name","value":"Mystery YTP"},
+	{"key":"LtsOItems_MysteryYtp_Desc","value":"<b>YTP VARIANT</b>\nMystery YTP\nGives a random value between 5 and 105 YTPs."},
+	
+	{"key":"LtsOItems_ApproximetalyYtp_Name","value":"Approximetaly YTP"},
+	{"key":"LtsOItems_ApproximetalyYtp_Desc","value":"<b>YTP VARIANT</b>\nApproximately YTP\nGives a random value between -100 and 300 YTPs."},
+	
+    {"key":"LtsOItems_GreaterThanYTP_Name","value":"Greater Than"},
+    {"key":"LtsOItems_GreaterThanYTP_Desc","value":"<b>YTP VARIANT</b>\nGreater Than\nGet a <b>GREATER</b> amount of points!\nThe only twist is that you'll be right-slapped on the face!"},
+	
+	{"key":"LtsOItems_LessThanYTP_Name","value":"Less Than"},
+    {"key":"LtsOItems_LessThanYTP_Desc","value":"<b>YTP VARIANT</b>\nLess Than\nGet a <b>\"Lesser\"</b> amount of points!\nThe only twist is that you'll be left-slapped on the face!"},
+	
+	{"key":"LtsOItems_SomethingYtp_Name","value":"Something"},
+    {"key":"LtsOItems_SomethingYtp_Desc","value":"<b>YTP VARIANT</b>\nSomething YTP\nIt could be anything!\nWith only 25% of getting an item, and 65% of getting YTPs!"},
+	
+	{"key":"LtsOItems_TeleportingYTP_Name","value":"Teleporting YTP"},
+    {"key":"LtsOItems_TeleportingYTP_Desc","value":"<b>YTP VARIANT</b>\nTeleporting YTP\nClicking it gives 25 YTPs and it teleports to another spot in the schoolhouse."},
+	
+	{"key":"LtsOItems_SpeedyYTP_Name","value":"Speedy YTP"},
+	{"key":"LtsOItems_SpeedyYTP_Desc","value":"<b>YTP VARIANT</b>\nSpeedy YTP\nGrants 40-60 points and a 10-second speed boost.\nFor when you need to be rich and fast, but not for very long."},
+	
+	{"key":"LtsOItems_TheOutsideYTPs_Name","value":"The Outside YTPs"},
+	{"key":"LtsOItems_TheOutsideYTPs_Desc","value":"<b>YTP VARIANT</b>\nThe Outside YTPs\nDeploys a wandering cluster of YTPs that hops between item spawns.\nIt's shy, so you'll have to be quick to grab it."},
+	
+	{"key":"LtsOItems_BlankYTP_Name","value":"Blank YTP"},
+	{"key":"LtsOItems_BlankYTP_Desc","value":"<b>YTP VARIANT</b>\nBlank YTP\nCopies over any other YTP the player has picked up."},
+	
+	{"key":"LtsOItems_EMC2YTP_Name","value":"E=MC² YTP"},
+	{"key":"LtsOItems_EMC2YTP_Desc","value":"<b>YTP VARIANT</b>\nE=MC² YTP\nGives 150 YTPs and disables the power of the current room."},
+	
+	{"key":"LtsOItems_JKYTP_Name","value":"JK YTP"},
+	{"key":"LtsOItems_JKYTP_Desc","value":"<b>YTP VARIANT</b>\nJK YTP\nJust Kidding!"},
+	
+	
+	
+	{"key":"LtsOItems_ChocolatePi_Name","value":"Chocolate Pi"},
+	{"key":"LtsOItems_ChocolatePi_Desc","value":"<b>ZESTY BAR VARIANT</b>\nChocolate Pi\nBaldi baked a beautiful chocolate Pi!\nIt refills 31.4% of your stamina and makes you 31.4% faster for 31.4 seconds!"},
+	
+	{"key":"LtsOItems_Pizza_Name","value":"Tasty Pizza"},
+	{"key":"LtsOItems_Pizza_Desc","value":"<b>ZESTY BAR VARIANT</b>\nTasty Pizza\nA delicious slice of pizza! Who wouldn't eat it?\nThis refills your stamina to 100%! Surprisingly less energetic than zesty bars!"},
+	
+	{"key":"LtsOItems_Pickles_Name","value":"(4) Jar of Pickles"},
+	{"key":"LtsOItems_Pickles_Name_3","value":"(3) Jar of Pickles"},
+	{"key":"LtsOItems_Pickles_Name_2","value":"(2) Jar of Pickles"},
+	{"key":"LtsOItems_Pickles_Name_1","value":"(1) Jar of Pickles"},
+	{"key":"LtsOItems_Pickles_Desc","value":"<b>ZESTY BAR VARIANT</b>\nJar of Pickles\nYummy! Leftover pickles from the camping trip!\nEach one gives you 50% of stamina boost for 30 seconds!\nHowever it's limited to 300% stamina."},
+	
+	{"key":"LtsOItems_HotCrossBun_Name","value":"Hot Cross Bun"},
+	{"key":"LtsOItems_HotCrossBun_Desc","value":"<b>ZESTY BAR VARIANT</b>\nHot Cross Bun\nThis delicious candy has so much sugar Principal even prohibits you from eating it!\nIt gives you 50% additional stamina, slice your stamina drop in half and gives you 15% more speed!\nBUT, for being dangerous to even eat, everyone around will know where you are!"},
+	
+	{"key":"LtsOItems_OrangeJuice_Name","value":"Orange Juice"},
+	{"key":"LtsOItems_OrangeJuice_Desc","value":"<b>ZESTY BAR VARIANT</b>\nOrange Juice\nA high quality orange juice that gives you 100% energy!\nIt's so refreshing to your body it even makes stamina regenerate faster and deplete faster!"},
+	
+	{"key":"LtsOItems_ChocolateQuarter_Name","value":"Chocolate Quarter"},
+	{"key":"LtsOItems_ChocolateQuarter_Desc","value":"<b>ZESTY BAR & QUARTER VARIANTS</b>\nChocolate Quarter\nIf you need to buy something and it's out of quarters, use this!\nThis sweet chocolate gives you an instant stamina boost of 150% when eaten!\n"},
+	
+	{"key": "LtsOItems_VanillaZestyBar_Name", "value": "Vanilla Zesty Bar"},
+	{"key": "LtsOItems_VanillaZestyBar_Desc", "value": "<b>ZESTY BAR VARIANT</b>\nVanilla Zesty Bar\nA Zesty bar, but vanilla! Healthier than the usual <i>sugar-flavoured</i> chocolate!\nIt refills your stamina to 350% and gives you a 10% speed boost!\nHowever, Baldi is also good at smelling! He's able of smelling the irresistible aroma of vanilla!"},
+
+	{"key": "LtsOItems_IceZestyBar_Name", "value": "Ice Zesty Bar"},
+	{"key": "LtsOItems_IceZestyBar_Desc", "value": "<b>ZESTY BAR VARIANT</b>\nIce Zesty Bar\nA Zesty Bar, stuck in the freezer for 3 hours!\nIt gives you 150% energy and is so frozen that everything you step on will freeze!"},
+	
+	{"key": "LtsOItems_ChocolateFlavouredZestyBar_Name", "value": "Chocolate Flavored Zesty Bar (With Chocolate Chunks)"},
+	{"key": "LtsOItems_ChocolateFlavouredZestyBar_Desc", "value": "<b>ZESTY BAR VARIANT</b>\nChocolate Flavored Zesty Bar (With Chocolate Chunks)\nThis unhealthy alternative to your average energy-flavored zesty bar is sure to give you cavities!\nJust take a bite and you'll get a sugar rush:\nfor the first 30 seconds your stamina won’t drop and you’ll run slightly faster, but once the high ends,\nyou’ll be a bit slower until the extra 100% stamina is burnt off."},
+
+	{"key": "LtsOItems_DietFlavouredZestyBar_Name", "value": "Diet Flavored Zesty Bar"},
+	{"key": "LtsOItems_DietFlavouredZestyBar_Desc", "value": "<b>ZESTY BAR VARIANT</b>\nDiet Flavored Zesty Bar\nThe energy bars needed to be healthier too, so these were made!\nSadly, there had to be a compromise that made the energy less potent,\nso nobody actually calls it energy flavored anymore!"},
+	
+	{"key": "LtsOItems_Chalk_Name", "value": "Chalk"},
+	{"key": "LtsOItems_Chalk_Desc", "value": "<b>ZESTY BAR & CHALK ERASER VARIANTS</b>\nChalk\nDon't tell anyone I told you this, but the chalk is edible.\nIt makes quite a bit of a mess, though.\nWhen eaten, it sets your stamina to half-full and\ncreates a cloud of chalk dust that follows you around for a short moment."},
+	
+	{"key":"LtsOItems_PanicKernels_Name","value":"Panic Kernels"},
+    {"key":"LtsOItems_PanicKernels_Desc","value":"<b>ZESTY BAR VARIANT</b>\nPanic Kernels\nIf you're very hungry, you can eat this to refill a bit of your energy\nBut the true power comes with using it with a BSODA!\n"},
+	
+	{"key":"LtsOItems_ThornGlognut_Name","value":"Thorn Glognut"},
+    {"key":"LtsOItems_ThornGlognut_Desc","value":"<b>ZESTY BAR VARIANT</b>\nThorn Glognut\nA famous snack from a local theme park called 'Glaggleland'\nWhich is odd as it went defunct before Here school was built!\nConsuming this might have some side effects... but it's energetic!"},
+	
+	{"key":"LtsOItems_IceCreamSandwich_Name","value":"Ice Cream Sandwich"},
+    {"key":"LtsOItems_IceCreamSandwich_Desc","value":"<b>ZESTY BAR VARIANT</b>\nIce Cream Sandwich\nThis treat is deliciously messy!\nYou can eat it while you walk, but you might leave sticky crumbs behind!\nTruly appetizing!"},
+	
+	{"key":"LtsOItems_FizzUp_Name","value":"Fizz Up"},
+    {"key":"LtsOItems_FizzUp_Desc","value":"<b>ZESTY BAR VARIANT</b>\nFizz Up\nA bubbly drink that speeds up your metabolism!\nYou can even walk 15% faster." },
+	
+	{"key":"LtsOItems_GrandmaBrownies_Name_3","value":"(3) Grandma Brownie's Chocolate Chunker Wunker Bunkers (Now with even bigger chunks of chocolate chunks)"},
+	{"key":"LtsOItems_GrandmaBrownies_Name_2","value":"(2) Grandma Brownie's Chocolate Chunker Wunker Bunkers (Now with even bigger chunks of chocolate chunks)"},
+	{"key":"LtsOItems_GrandmaBrownies_Name_1","value":"(1) Grandma Brownie's Chocolate Chunker Wunker Bunkers (Now with even bigger chunks of chocolate chunks)"},
+    {"key":"LtsOItems_GrandmaBrownies_Desc","value":"<b>ZESTY BAR VARIANT</b>\n<i>Grandma Brownie's Chocolate Chunker Wunker Bunkers\n(Now with even bigger chunks of chocolate chunks)</i>\nDelicious chocolate cereal, now with even bigger chunks of chocolate chunks!\nDon't say grandma brownie's chocolate chunker wunker bunkers now with even bigger chunks of chocolate chunks is in my store though.\nUse it to increase your stamina, but the loads of high-concentrated-fat might make you slow down."},
+	
+	{"key":"LtsOItems_SpeedyDonut_Name","value":"Speedy Donut"},
+	{"key":"LtsOItems_SpeedyDonut_Desc","value":"<b>ZESTY BAR VARIANT</b>\nSpeedy Donut\nThis donut can make you go twice as fast in the halls!\nAnd yet, Principal of The Thing doesn't put you in detention for it!"},
+	
+	{"key":"LtsOItems_CoalFlavouredZestyBar_Name","value":"Coal Flavoured Zesty Bar"},
+	{"key":"LtsOItems_CoalFlavouredZestyBar_Desc","value":"<b>ZESTY BAR VARIANT</b>\nCoal Flavoured Zesty Bar\nSomeone wanted to prank the Bully and put coal inside the Zesty Bar!\nAnd looks like everyone wants to prank others with it..."},
+	
+	 {"key":"LtsOItems_ZestyFlavouredWhiteBar_Name","value":"Zesty Flavoured White Bar"},
+	{"key":"LtsOItems_ZestyFlavouredWhiteBar_Desc","value":"<b>ZESTY BAR VARIANT</b>\nZesty Flavoured White Bar\nBoosts your stamina to 200%! But, you constantly lose stamina until you reach 50%.\nThis is a balanced deal, just as things should be..."},
+	
+	{"key":"LtsOItems_ExplosiveZestyBar_Name","value":"Explosive Zesty Bar"},
+	{"key":"LtsOItems_ExplosiveZestyBar_Desc","value":"<b>ZESTY BAR VARIANT</b>\nExplosive Zesty Bar\nThis Zesty Bar is very dangerous as it's a creation by the Bully to make students explode!\nWhile it can be used to scare people away, don't eat it anyway."},
+	
+	{"key":"LtsOItems_SparklyWater_Name","value":"Sparkly Water"},
+	{"key":"LtsOItems_SparklyWater_Desc","value":"<b>ZESTY BAR VARIANT</b>\nSparkly Water\nThis fresh water is so sparkly it can make anyone glow!\nAlthough it makes beautiful sparks, they can also hurt anyone's vision."},
+	
+	{"key":"LtsOItems_Yoyleberry_Name","value":"Yoyleberry"},
+	{"key":"LtsOItems_Yoyleberry_Desc","value":"<b>ZESTY BAR VARIANT</b>\nYoyleberry\nTaken from the hidden lands of dreams and cartoonish generic-mouth characters,\nthis metallic berry will literally weight you down once eaten — you'll move slower.\nBut, this makes your metallic body immune to Baldi's almighty ruler!\nJust watch out to its short 5 seconds effect."},
+	
+	{"key":"LtsOItems_YTPEnergyDrink_Name","value":"YTP Energy Drink"},
+	{"key":"LtsOItems_YTPEnergyDrink_Desc","value":"<b>ZESTY BAR & YTP VARIANT</b>\nYTP Energy Drink\nMaxes out your stamina and gives you a random amount of points!\nA thrilling gamble in a can, who would know?"},
+	
+	{"key":"LtsOItems_FireFlavouredZestyBar_Name","value":"Fire Flavoured Zesty Bar"},
+	{"key":"LtsOItems_FireFlavouredZestyBar_Desc","value":"<b>ZESTY BAR VARIANT</b>\nFire Flavoured Zesty Bar\nA Zesty Bar was forgotten in the oven, and now we have the Fire Zesty Bar!\nBe careful, because if you eat it, you might turn yourself into a moving heavy train!"},
+	
+	{"key":"LtsOItems_MysteryBrewCoffee_Name","value":"Mystery Brew Coffee"},
+	{"key":"LtsOItems_MysteryBrewCoffee_Desc","value":"<b>ZESTY BAR VARIANT</b>\nMystery Brew Coffee\nThere's no indication over who brewed this thing.\nThe caffeine used definitely came from another mystery dimension!\nYou've got three speeding effects in it."},
+	
+	{"key":"LtsOItems_ZestyMegaBar_Name","value":"Zesty Mega Bar"},
+	{"key":"LtsOItems_ZestyMegaBar_Desc","value":"<b>ZESTY BAR VARIANT</b>\nZesty Mega Bar\nSomeone inflated this thing with pure fat!\nIt's a new type of sugar, according to trustworthy Baldish scientific sources!\nYou'll definitely get a quick rush, but end up absorbing too much fat, which slows you down for some time."},
+	
+	{"key":"LtsOItems_Banana_Name","value":"Banana"},
+	{"key":"LtsOItems_Banana_Desc","value":"<b>ZESTY BAR VARIANT</b>\nBanana\nDelicious convenient banana!\nNo wonder we can find 'Nana Peels from it."},
+	
+	{"key":"LtsOItems_SpicyDog_Name","value":"Spicy Dog"},
+	{"key":"LtsOItems_SpicyDog_Desc","value":"<b>ZESTY BAR VARIANT</b>\nSpicy Dog\nSo hot you run faster!\nBut, make sure to not eat or drink anything else, or you might dry out his hotness!"},
+
+
+
+
+	{"key":"LtsOItems_CalibratedTp_Name","value":"Calibrated Teleporter"},
+	{"key":"LtsOItems_CalibratedTp_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nCalibrated Teleporter\nThis is the teleporter for noobies! \nIf you feel like the dangerous teleporter is too dangerous, use this!\nYou can select a spot in the map to teleport, but with a limited range!"},
+
+	{"key": "LtsOItems_SaferTeleporter_Name", "value": "Safer Teleporter"},
+	{"key": "LtsOItems_SaferTeleporter_Desc", "value": "<b>DANGEROUS TELEPORTER VARIANT</b>\nSafer Teleporter\nDifferently from the danger approach, the safer teleporter teleports you back to where you were 10 seconds ago!\nUnless Baldi is too close to that area, which is why this is a safe approach!"},
+	
+	{"key": "LtsOItems_ControlledTeleporter_Name", "value": "Controlled Teleporter"},
+	{"key": "LtsOItems_ControlledTeleporter_Desc", "value": "<b>DANGEROUS TELEPORTER VARIANT</b>\nControlled Teleporter\nA <i>less</i> dangerous teleporter version.\nJust click the button and find yourself in a similar place!\nYou'll always be teleported to the same room type you were before!\nBut it cannot be used in hallways."},
+	
+	{"key": "LtsOItems_BananaTeleporter_Name", "value": "Banana Teleporter"},
+	{"key": "LtsOItems_BananaTeleporter_Desc", "value": "<b>DANGEROUS TELEPORTER VARIANT</b>\nBanana Teleporter\nNothing's more funny than dropping random 'Nana Peels!\nEvery time you change spots with this thing, you drop one peel!"},
+	
+	{"key": "LtsOItems_DetentionTeleporter_Name", "value": "Detention Teleporter"},
+	{"key": "LtsOItems_DetentionTeleporter_Desc", "value": "<b>DANGEROUS TELEPORTER VARIANT</b>\nDetention Teleporter\nThe technology behind Principal's ability to teleport you!\nUse it to teleport yourself to detention... if you ever need to."},
+
+	{"key": "LtsOItems_PrincipalOEleporter_Name", "value": "Principal O'Eleporter"},
+	{"key": "LtsOItems_PrincipalOEleporter_Desc", "value": "<b>PRINCIPAL'S WHISTLE VARIANT</b>\nPrincipal O'Eleporter\nIs Principal's reaction not enough for you?\nWe made it even more instant!\nYou can literally teleport Principal to your location!\nBut, with a twist: there's a 25% of getting random characters instead!\n"},
+	
+	{"key":"LtsOItems_BrokenTeleporter_Name","value":"Broken Teleporter"},
+    {"key":"LtsOItems_BrokenTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nBroken Teleporter\nA teleporter that works... sort of.\nYou're teleported once but your body will be <i>a little</i> misfigured for a while\nand you'll need to do some exercise to recover your stamina!"},
+	
+	{"key":"LtsOItems_PocketTeleporter_Name_5","value":"(5) Pocket Teleporter"},
+	{"key":"LtsOItems_PocketTeleporter_Name_4","value":"(4) Pocket Teleporter"},
+	{"key":"LtsOItems_PocketTeleporter_Name_3","value":"(3) Pocket Teleporter"},
+	{"key":"LtsOItems_PocketTeleporter_Name_2","value":"(2) Pocket Teleporter"},
+	{"key":"LtsOItems_PocketTeleporter_Name_1","value":"(1) Pocket Teleporter"},
+	{"key":"LtsOItems_PocketTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nPocket Teleporter\nIf it was too pressuring getting to random places at random invervals, this thing reduces the load for you!\nYou've got yourself five uses of randomized teleport!"},
+  
+	{"key":"LtsOItems_GatewayTeleporter_Name","value":"Gateway Teleporter"},
+	{"key":"LtsOItems_GatewayTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nGateway Teleporter\nWarps you directly to an open exit.\nAnd NO, this isn't an <i>artificial</i> tool from Arts and Crafters.\nHis power is pure artistic magic, a true artist's power."},
+  
+    {"key":"LtsOItems_ProtoTeleporter_Name","value":"Proto-Teleporter"},
+	{"key":"LtsOItems_ProtoTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nProto-Teleporter\nAn old prototype of Baldi's teleporter!\nIt was scrapped due to having some.. delays, surely it's still safe to use though.\nThey're easier to produce!"},
+  
+    {"key":"LtsOItems_SuperchargedTeleporter_Name","value":"Supercharged Teleporter"},
+	{"key":"LtsOItems_SuperchargedTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nSupercharged Teleporter\nAn experimental supercharged version of Baldi's Dangerous Teleporter.\nIt has some time-bending side effects."},
+	
+	{"key":"LtsOItems_WormholeTeleporter_Name","value":"Wormhole-Powered Teleporter"},
+	{"key":"LtsOItems_WormholeTeleporter_Desc","value":"<b>DANGEROUS TELEPORTER VARIANT</b>\nWormhole-Powered Teleporter\nBaldi's experiments on the wormholes allowed him to make this!\nIt utilizes them in a \"safe\" way and makes for better transportation."},
+	
+	
+	
+	{"key": "LtsOItems_HallwayEchoWhistle_Name", "value": "Hallway Echo Whistle"},
+	{"key": "LtsOItems_HallwayEchoWhistle_Desc", "value": "<b>PRINCIPAL'S WHISTLE VARIANT</b>\nHallway Echo Whistle\nSuch a powerful whistle that it can indicate any misbehavior from far away!\nIf you've got any <b>real</b> trouble, use this to call Principal and Baldi to whatever you're aiming at (walls-only)."},
+	
+	{"key":"LtsOItems_FramingWhistle_Name","value":"Framing Whistle"},
+	{"key":"LtsOItems_FramingWhistle_Desc","value":"<b>PRINCIPAL'S WHISTLE VARIANT</b>\nFraming Whistle\nThis modified whistle will always frame the closest person, even if they aren't even visible for you!\nDon't feel bad though; It's not you, it's them... Probably."},
+	
+
+
+	{"key": "LtsOItems_TeleporterOWall_Name", "value": "Teleporter O'Wall"},
+	{"key": "LtsOItems_TeleporterOWall_Desc", "value": "<b>'NANA PEEL & DANGEROUS TELEPORTER VARIANTS</b>\nTeleporter O'Wall\nThat's the floating skateboard! When hitting a wall, you teleport!\nSadly, nobody knows how to really use it because it floats.\nSo you're at its mercy when you slip over it."},
+	
+	{"key":"LtsOItems_LandMine_Name","value":"Landmine"},
+	{"key":"LtsOItems_LandMine_Desc","value":"<b>'NANA PEEL VARIANT</b>\nLandmine\nEver needed to make sure nothing can get in your way? Place down this!\nAnyone that steps on it will surely be BLOWN away in more ways than one!"},
+	
+	{"key":"LtsOItems_GoldenBanana_Name","value":"Golden Banana"},
+    {"key":"LtsOItems_GoldenBanana_Desc","value":"<b>'NANA PEEL VARIANT</b>\nGolden Banana\nOooh... Banana.\nThrow on the ground, select the direction, <i>and feel the glorious slide.</i>"},
+	
+	{"key":"LtsOItems_Flashbang_Name","value":"Flashbang"},
+	{"key":"LtsOItems_Flashbang_Desc","value":"<b>‘NANA PEEL VARIANT</b>\nFlashbang\nLiterally a flash bomb, it can blind everyone around. Sunglasses not included."},
+	
+	{"key":"LtsOItems_NoiseDevice_Name","value":"Noise Device"},
+	{"key":"LtsOItems_NoiseDevice_Desc","value":"<b>ALARM CLOCK & ‘NANA PEEL VARIANT</b>\nNoise Device\nThrow it and leave it by for some time.\nWhen you need to alert Baldi, just click the conveninently-located button on your hand!\nPerfect for blaming others."},
+	
+	{"key":"LtsOItems_ChocolateBanana_Name","value":"Chocolate Banana"},
+	{"key":"LtsOItems_ChocolateBanana_Desc","value":"<b>APPLE & 'NANA PEEL VARIANT</b>\nChocolate Banana\nBaldi loves bananas (as part of his diet), but especially chocolate ones!\nHe'll be so distracted by the taste he might leave the peel behind!"},
+	
+	{"key":"LtsOItems_ChocolateNanaPeel_Name","value":"Chocolate 'Nana Peel"},
+	{"key":"LtsOItems_ChocolateNanaPeel_Desc","value":"<b>'NANA PEEL VARIANT</b>\nChocolate 'Nana Peel\nThis peel is so melted in chocolate it slides on its own!\nAnyone who comes in contact with this will go along the ride!"},
+	 
+	{"key":"LtsOItems_IceNanaPeel_Name","value":"Ice 'Nana Peel"},
+	{"key":"LtsOItems_IceNanaPeel_Desc","value":"<b>'NANA PEEL VARIANT</b>\nIce 'Nana Peel\nWhat happens when you put a banana in the freezer for 10 months?\nIt freezes like this!\nIt's pretty cold, and if you trip over it, it's even colder."},
+	
+	{"key":"LtsOItems_BagOMarbles_Name_5","value":"(5) Bag O' Marbles"},
+	{"key":"LtsOItems_BagOMarbles_Name_4","value":"(4) Bag O' Marbles"},
+	{"key":"LtsOItems_BagOMarbles_Name_3","value":"(3) Bag O' Marbles"},
+	{"key":"LtsOItems_BagOMarbles_Name_2","value":"(2) Bag O' Marbles"},
+	{"key":"LtsOItems_BagOMarbles_Name_1","value":"(1) Bag O' Marbles"},
+	{"key":"LtsOItems_BagOMarbles_Desc","value":"<b>'NANA PEEL VARIANT</b>\nBag O' Marbles\nIt's a bag of funny looking balls!\nEach one can make you slip, like a 'Nana Peel!"},
+	
+	{"key":"LtsOItems_BucketOWater_Name","value":"Bucket O' Water"},
+	{"key":"LtsOItems_BucketOWater_Desc","value":"<b>'NANA PEEL VARIANT</b>\nBucket O' Water\nThis bucket can lead anyone either forward or backwards.\nStrangely, its motionless water can't make the floor wet."},
+	
+	{"key":"LtsOItems_ExoticButters_Name_5","value":"(5) Exotic Butters"},
+	{"key":"LtsOItems_ExoticButters_Name_4","value":"(4) Exotic Butters"},
+	{"key":"LtsOItems_ExoticButters_Name_3","value":"(3) Exotic Butters"},
+	{"key":"LtsOItems_ExoticButters_Name_2","value":"(2) Exotic Butters"},
+	{"key":"LtsOItems_ExoticButters_Name_1","value":"(1) Exotic Butters"},
+  {"key":"LtsOItems_ExoticButters_Desc","value":"<b>NANA PEEL VARIANT</b>\nExotic Butters\nAs a reward for everyone's hard work,\nBaldi has brought some Exotic Butters to the schoolhouse!\nThey're kind of slippery, but taste delicious!"},
+  
+  {"key":"LtsOItems_GlassNanaPeel_Name","value":"Glass 'Nana Peel"},
+  {"key":"LtsOItems_GlassNanaPeel_Desc","value":"<b>'NANA PEEL VARIANT</b>\nGlass 'Nana Peel\nThis 'nana is very powerful if used correctly to navigate,\n<b>but don't let it shatter.</b>"},
+  
+  {"key":"LtsOItems_OverripeNanaPeel_Name","value":"Overripe 'Nana Peel"},
+  {"key":"LtsOItems_OverripeNanaPeel_Desc","value":"<b>NANA PEEL VARIANT</b>\nOverripe 'Nana Peel\nTo keep students safe from slipping all over the place,\nwe have these colorful bananas that will make you slip 50% less than any ordinary banana!"},
+  
+  {"key":"LtsOItems_SadPeel_Name","value":"Sad-Peel"},
+  {"key":"LtsOItems_SadPeel_Desc","value":"<b>'NANA PEEL VARIANT</b>\nSad-Peel\nAww, this thing is sad! It's so sad it seeks out friends in hopes of a nice conversation or two!\n Sadly, all the friends it tries to make can do is slip."},
+	
+	
+	
+
+	{"key": "LtsOItems_QuarterOnAString_Name", "value": "(3) Quarter on a String"},
+	{"key": "LtsOItems_QuarterOnAString_Name_2", "value": "(2) Quarter on a String"},
+	{"key": "LtsOItems_QuarterOnAString_Name_1", "value": "(1) Quarter on a String"},
+	{"key": "LtsOItems_QuarterOnAString_Desc", "value": "<b>QUARTER VARIANT</b>\nQuarter on a String\nA quarter on a string that can be used up to three times.\nBut since you're tricking a vending machine, it counts as bullying it!\nYou don't wanna make the machine sad, do you?!"},
+	
+	{"key":"LtsOItems_DollarBill_Name","value":"Dollar Bill"},
+  {"key":"LtsOItems_DollarBill_Desc","value":"<b>QUARTER VARIANT</b>\nDollar Bill\nA crispy dollar bill!\nPut one of these in a vending machine, and you'll get four times the amount!\nCapitalism at its finest."},
+  
+  {"key":"LtsOItems_3DPrintedQuarter_Name","value":"3D Printed Quarter"},
+  {"key":"LtsOItems_3DPrintedQuarter_Desc","value":"<b>QUARTER VARIANT</b>\n3D Printed Quarter\nThis quarter is fake, it has been 3D printed!\nIt acts exactly like stuff that would need a shiny quarter.\nHowever, by a 60% chance, you might succeed or fail!\nPrincipal doesn't like people bullying machines with fake quarters either!"},
+  
+  {"key":"LtsOItems_ChippedPenny_Name","value":"Chipped Penny"},
+  {"key":"LtsOItems_ChippedPenny_Desc","value":"<b>QUARTER VARIANT</b>\nChipped Penny\nA penny which has a chip taken out of it.\nThis thing should be worthless. However, it appears to have strange properties.\nUse it wisely"},
+  
+  
+  
+
+	{"key": "LtsOItems_EnergyNametag_Name", "value": "Energy Nametag"},
+    {"key": "LtsOItems_EnergyNametag_Desc", "value": "<b>NAMETAG VARIANT</b>\nEnergy Nametag\nJust like a faculty nametag, but this one's special!\nYou can run faster through the hallways!\nThat's the real technology Principal uses to be faster than you!\nBut remember, when it's gone, it'll drain all over your stamina... for some reason..."},
+	
+	{"key":"LtsOItems_PrincipalsBowTie_Name","value":"Principal's Bow Tie"},
+    {"key":"LtsOItems_PrincipalsBowTie_Desc","value":"<b>NAMETAG VARIANT</b>\nPrincipal's Bow Tie\nThe only one special bow tie from our world's best Principal!\nUsing it will give you the authority to send anyone (except Baldi and Principal) to detention!\nBut if Principal catches you impersonating him, you'll get a very well deserved punishment."},
+	
+	
+	
+	{"key": "LtsOItems_FogMachine_Name", "value": "Fog Machine"},
+    {"key": "LtsOItems_FogMachine_Desc", "value": "<b>CHALK ERASER VARIANT</b>\nFog Machine\nOne of Baldi's old Fog Machines, it malfunctions from time to time.\nHowever, after some tweaking, this is now a useful tool for you!\nIt creates a big area of fog!"},
+    {"key": "LtsOItems_Vfx_FogMachine_Working", "value": "*Fog machine running*"},
+	
+	{"key": "LtsOItems_ChalkBomb_Name", "value": "Chalk Bomb"},
+    {"key": "LtsOItems_ChalkBomb_Desc", "value": "<b>CHALK ERASER VARIANT</b>\nChalk Bomb\nIf the chalk eraser wasn't enough to make you hide, you can push everyone too - that's bullying though!\nThis is like a blinding chalk bomb! It's so loud it can even break windows as well!"},
+	
+	{"key":"LtsOItems_TintedPaintBomb_Name","value":"Tinted Paint Bomb"},
+	{"key":"LtsOItems_TintedPaintBomb_Desc","value":"<b>CHALK ERASER VARIANT</b>\nTinted Paint Bomb\nOne of Bully's best creations!\nYou can paint any surface and even try to make the room darker!\nWith such efficiency, the only way to remove it is with flood water!"},
+	
+	{"key":"LtsOItems_ElectricChalkEraser_Name","value":"Electric Chalk Eraser"},
+	{"key":"LtsOItems_ElectricChalkEraser_Desc","value":"<b>CHALK ERASER VARIANT</b>\nElectric Chalk Eraser\nA Chalk Eraser, but electric!\nMeaning it's more powerful, filling almost a room with smoke!\nBut there may be some <i>shaky</i> electricity."},
+	
+	{"key":"LtsOItems_FireExtinguisher_Name","value":"Fire Extinguisher"},
+	{"key":"LtsOItems_FireExtinguisher_Desc","value":"<b>CHALK ERASER VARIANT</b>\nFire Extinguisher\n<b>EMERGENCY!</b>\nThere's a fire, so what do you do?\nUse this fire extinguisher to blow out the fire!\nIt can create a bunch of extinguishing gas in a single hallway."},
+	
+	{"key":"LtsOItems_ChalkBox_Name","value":"Chalk Box"},
+	{"key":"LtsOItems_ChalkBox_Desc","value":"<b>CHALK ERASER VARIANT</b>\nChalk Box\nWith this box of multi-colored chalk, you can make any classroom door blend right into the walls!\nPlease, don't eat it."},
+	
+	
+	
+	
+	{"key": "LtsOItems_KillerKey_Name", "value": "Killer Key"},
+	{"key": "LtsOItems_KillerKey_Desc", "value": "<b>DETENTION KEY VARIANT</b>\nKiller Key\nA normal detention key, but one that Principal hates!\nWhen used, it makes the door unable of locking ever again!"},
+	
+	{"key": "LtsOItems_SpecialKey_Name", "value": "Special Key"},
+	{"key": "LtsOItems_SpecialKey_Desc", "value": "<b>KEY VARIANT</b>\nSpecial Key\nA super master key! It can deform into any lock entrance dynamically!\nYou can unlock normal doors, swinging doors, coin doors and more!"},
+	
+	{"key": "LtsOItems_CandyKey_Name", "value": "Candy Key"},
+	{"key": "LtsOItems_CandyKey_Desc", "value": "<b>KEY VARIANT</b>\nCandy Key\nThis candy replica of Principal's Key is can unlock any door as you wish.\nHowever, since it is a candy, it can be equally tasty!"},
+	
+	{"key":"LtsOItems_KeyRing_Name_5","value":"(5) Key Ring"},
+	{"key":"LtsOItems_KeyRing_Name_4","value":"(4) Key Ring"},
+	{"key":"LtsOItems_KeyRing_Name_3","value":"(3) Key Ring"},
+	{"key":"LtsOItems_KeyRing_Name_2","value":"(2) Key Ring"},
+	{"key":"LtsOItems_KeyRing_Name_1","value":"(1) Key Ring"},
+	{"key":"LtsOItems_KeyRing_Desc","value":"<b>PRINCIPAL'S KEYS VARIANT</b>\nKey Ring\nSome staff member accidentally left these lying on the desk,\nmaybe not even Principal might be the one using it!\nThey can unlock any regular door or special locks!"},
+	
+	{"key":"LtsOItems_MysteryKey_Name_2","value":"(2) Mystery Key"},
+	{"key":"LtsOItems_MysteryKey_Name_1","value":"(1) Mystery Key"},
+	{"key":"LtsOItems_MysteryKey_Desc","value":"<b>PRINCIPAL'S KEYS VARIANT</b>\nMystery Key\nA super duper mystery key that can cause different outcomes!\nMight open the door, might do nothing, might summon an unwanted guest.\nFeeling lucky, yet?"},
+	
+	
+	
+	
+	{"key": "LtsOItems_DangerousScissors_Name", "value": "Dangerous Scissors"},
+	{"key": "LtsOItems_DangerousScissors_Desc", "value": "<b>SCISSORS VARIANT</b>\nDangerous Scissors\nIf you are a pro on using scissors, this is for you!\nYou can cut stuff normally, but also do dangerous stuff!\nBut don't do it, please."},
+	
+	{"key": "LtsOItems_MetalScissors_Name", "value": "Metal Scissors"},
+	{"key": "LtsOItems_MetalScissors_Desc", "value": "<b>SCISSORS VARIANT</b>\nMetal Scissors\nA safety scissors with an extra feature: a key feature!\nIf you're locked unexpectedly, you can use this to run away!\nThat's real safety!"},
+	
+	{"key": "LtsOItems_CardboardScissors_Name", "value": "(3) Cardboard Scissors"},
+	{"key": "LtsOItems_CardboardScissors_Name_2", "value": "(2) Cardboard Scissors"},
+	{"key": "LtsOItems_CardboardScissors_Name_1", "value": "(1) Cardboard Scissors"},
+	{"key": "LtsOItems_CardboardScissors_Desc", "value": "<b>SCISSORS VARIANT</b>\nCardboard Scissors\nSomeone made this in the art class, it's a weakened scissors!\nEach time you use, there's a small chance it'll actually work."},
+	
+	{"key": "LtsOItems_UniversalLock_Name", "value": "Universal Lock"},
+	{"key": "LtsOItems_UniversalLock_Desc", "value": "<b>SWINGING DOOR LOCK VARIANT</b>\nUniversal Lock\nThis item can lock swinging doors and standard doors!\nThat's the real power of an universal lock!"},
+	
+	{"key":"LtsOItems_WeakLock_Name","value":"Weak Lock"},
+    {"key":"LtsOItems_WeakLock_Desc","value":"<b>DOOR LOCK VARIANT</b>\nWeak Lock\nThis is a rather weak lock you can only use on doors.\nHowever, due to its fragile nature, it only can stand 3 rattles."},
+	
+    {"key":"LtsOItems_StudentLock_Name","value":"Student's Lock"},
+    {"key":"LtsOItems_StudentLock_Desc","value":"<b>DOOR LOCK VARIANT</b>\nStudent's Lock\nA transparent door lock made for students!\nEveryone else is left knocking while you can just walk right in!"},
+	
+	
+	
+	{"key": "LtsOItems_ShinyCleanGloves_Name", "value": "Shiny Clean Gloves"},
+	{"key": "LtsOItems_ShinyCleanGloves_Desc", "value": "<b>TECHNOBOOTS VARIANT</b>\nShiny Clean Gloves\nJust as clean as big boots, these big gloves make doors silent!"},
+	
+	{"key": "LtsOItems_ReallyTallBoots_Name", "value": "Really Tall Boots"},
+	{"key": "LtsOItems_ReallyTallBoots_Desc", "value": "<b>TECHNOBOOTS VARIANT</b>\nReally Tall Boots\nIf not sliding over stuff wasn't enough, you can stomp them too!\nBut be careful, taking them off might make you fall straight to the floor!"},
+	
+	{"key": "LtsOItems_RustyOldShoes_Name", "value": "Proto-Shoes"},
+	{"key": "LtsOItems_RustyOldShoes_Desc", "value": "<b>TECHNOBOOTS VARIANT</b>\nProto-Shoes\nBaldi's failed experiment on the well-known Techno-Boots, but they're far more weaker compared to them.\nBut hey, at least Baldi made a few of them!"},
+	
+	{"key":"LtsOItems_BalletShoes_Name","value":"Ballet Shoes"},
+    {"key":"LtsOItems_BalletShoes_Desc","value":"<b>TECHNOBOOTS VARIANT</b>\nBallet Shoes\nPeople usually don't walk on these, so it's pretty hard.\nFor the effort of using these, you'll lose more of your energy.\nAt least you can avoid anyone with it!"},
+	
+	{"key":"LtsOItems_StompyBoots_Name","value":"Stompy Boots"},
+    {"key":"LtsOItems_StompyBoots_Desc","value":"<b>TECHNOBOOTS VARIANT</b>\nStompy Boots\nEach step is a thunderous stomp that shoves anyone out of your way.\n<i>Legend says Baldi made this since his \"old\" days, but that's just a theory!</i>"},
+	
+	{"key":"LtsOItems_IronShoes_Name","value":"Iron Shoes"},
+	{"key":"LtsOItems_IronShoes_Desc","value":"<b>TECHNOBOOTS VARIANT</b>\nIron Shoes\nWOW! These construction oriented safety-boots are REALLY heavy!\n..SO... HEAVY... OH NO IM FALLING THROUGH THE FLOOR\nWHILE WRITING THIS AAAAHHHHH!!!!"},
+	
+	
+	
+
+	{"key": "LtsOItems_TestClock_Name", "value": "Test Clock"},
+	{"key": "LtsOItems_TestClock_Desc", "value": "<b>ALARM CLOCK VARIANT</b>\nTest Clock\nWe needed to make a test clock, to test time properties!\nThe design is totally not a joke! It's a test after all!\nPutting this down will make time stop for some time."},
+	
+	{"key":"LtsOItems_WheelClock_Name","value":"Wheel Clock"},
+	{"key":"LtsOItems_WheelClock_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nWheel Clock\nPush this little thing to distract Baldi by distance!\nYou cannot set the timer, but you can aim at a wall and it'll ring instantly at it!"},
+	
+	{"key":"LtsOItems_DynamiteClock_Name","value":"Dynamite Clock"},
+	{"key":"LtsOItems_DynamiteClock_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nDynamite Clock\nThis clock will no only call Baldi's attention, it also pushes everyone back!\nThis is dangerous!"},
+
+	{"key":"LtsOItems_AncientClock_Name","value":"Ancient Clock"},
+	{"key":"LtsOItems_AncientClock_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nAncient Clock\nAn ancient clock with the strong property of drawing everyone's attention.\nLiterally, <b>everyone</b>.\nThat should explain why they stopped making these..."},
+	
+	{"key":"LtsOItems_TeleportingClock_Name","value":"Teleporting Clock"},
+	{"key":"LtsOItems_TeleportingClock_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nTeleporting Clock\nOnce placed, it'll make sure to teleport you back after a minute!\nIt may draw Baldi's attention sometimes though."},
+	
+	{"key":"LtsOItems_SuperChargedAlarmClock_Name","value":"Super-Charged Alarm Clock"},
+	{"key":"LtsOItems_SuperChargedAlarmClock_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nSuper-Charged Alarm Clock\nThis alarm clock has the voltage power of 99 lighting bolts!\nJust be careful with over frying the generator!"},
+	
+	{"key":"LtsOItems_AngryAlarm_Name","value":"Angry Alarm"},
+	{"key":"LtsOItems_AngryAlarm_Desc","value":"<b>ALARM CLOCK VARIANT</b>\nAngry Alarm\nWoah, what's got this thing so mad\nIt looks like it's ready to throw some hands!\nIf it had any. Just plop it down and wait for it to go off! It'll go KAPOW at whatever it wishes."},
+
+	
+	
+	
+	{"key":"LtsOItems_BaldisMostFavoriteTape_Name","value":"Baldi's Most Favorite Tape"},
+	{"key":"LtsOItems_BaldisMostFavoriteTape_Desc","value":"<b>TAPE VARIANT</b>\nBaldi's Most Favorite Tape\nYou don't even need to guess what song is it...\nBut hey, Baldi loves it\nTo a point which he literally ignores everything else for the sake of fun!"},
+
+	{"key":"LtsOItems_LeastFavoriteTape_Name","value":"Everyone's Least Favorite Tape"},
+	{"key":"LtsOItems_LeastFavoriteTape_Desc","value":"<b>TAPE VARIANT</b>\nEveryone's Least Favorite Tape\nA smarter student made an even better tape.\nPlaying this will not only make everyone go away, but also ignore everything!"},
+	
+	{"key":"LtsOItems_PartyTape_Name","value":"Party Tape"},
+	{"key":"LtsOItems_PartyTape_Desc","value":"<b>TAPE VARIANT</b>\nIf you need to start a party, play this tape!\nIt'll instantly draw everyone's attention!\nUnfortunately, you cannot summon prizes or balloons from it, that's for a <i>special event...</i>"},
+	
+	{"key":"LtsOItems_PortalTape_Name","value":"Portal Tape"},
+	{"key":"LtsOItems_PortalTape_Desc","value":"<b>TAPE VARIANT</b>\nPortal Tape\nA invention powered by wormholes!\nThis tape can harnass the power of wormholes to cause disruption in the schoolhouse.\nIsn't that crazy?"},
+
+
+
+
+	{"key":"LtsOItems_PushingHook_Name","value":"Pushing Hook"},
+	{"key":"LtsOItems_PushingHook_Desc","value":"<b>GRAPPLING HOOK VARIANT</b>\nPushing Hook\nDefinition of asking for personal space.\nYou don't need to tell anyone to stay away, you can <b>make them stay away!</b>"},
+	
+    {"key":"LtsOItems_Harpoon_Name","value":"Harpoon"},
+    {"key":"LtsOItems_Harpoon_Desc","value":"<b>GRAPPLING HOOK VARIANT</b>\nHarpoon\nUsed for fishing, this is a fun little contraption you can use to traverse around the halls.\nHowever, it's better used on other people. Be careful, ok?"},
+	
+	{"key":"LtsOItems_BouncyGrapplingHook_Name","value":"Bouncy Grappling Hook"},
+    {"key":"LtsOItems_BouncyGrapplingHook_Desc","value":"<b>GRAPPLING HOOK VARIANT</b>\nBouncy Grappling Hook\nAlthough it looks familiar, it's a totally different hook!\nIf you need to go at multiple places at once, this is for you!\nIt does not only pulls, it bounces too!"},
+	
+	{"key":"LtsOItems_CheapGrapplingHook_Name","value":"Cheap Grappling Hook"},
+    {"key":"LtsOItems_CheapGrapplingHook_Desc","value":"<b>GRAPPLING HOOK VARIANT</b>\nCheap Grappling Hook\nThis was cheaply made in 40 minutes!\nBut it's worth a shot to travel small distances."},
+	
+	{"key":"LtsOItems_CharginHook_Name","value":"Chargin' Hook"},
+	{"key":"LtsOItems_CharginHook_Desc","value":"<b>GRAPPLING HOOK VARIANT</b>\nChargin' Hook\nIt's literally a CHARGING hook.\nLaunches you forward until you hit something or someone."},
+
+
+	
+	
+	{"key":"LtsOItems_PortalDoor_Name","value":"Portal Door"},
+    {"key":"LtsOItems_PortalDoor_Desc","value":"<b>PORTAL POSTER VARIANT</b>\nPortal Door\nBaldi got tired of walking around, so he invented this!\nJust place it anywhere, walk in, and end up somewhere else! Patent is pending."},
+	
+    {"key":"LtsOItems_PortalPosterV2_Name","value":"Portal Poster V2.0"},
+    {"key":"LtsOItems_PortalPosterV2_Desc","value":"<b>PORTAL POSTER VARIANT</b>\nPortal Poster V2.0\nBaldi decided to add some tweaks to his patented Portal Poster.\nNow, only the user can walk through it while everyone else gets whisked away!"},
+	
+	{"key":"LtsOItems_AdaptivePortalPoster_Name","value":"Adaptive Portal Poster"},
+	{"key":"LtsOItems_AdaptivePortalPoster_Desc","value":"<b>PORTAL POSTER VARIANT</b>\nAdaptive Portal Poster\nThis smart portal analyzes threats and teleports you to the safest spot.\nIt's also a coward and will self-destruct if a teacher gets too close."},
+	
+	
+	
+	
+    {"key":"LtsOItems_SadSoda_Name","value":"Sad Soda"},
+    {"key":"LtsOItems_SadSoda_Desc","value":"<b>BSODA VARIANT</b>\nSad Soda\nThis soda is so sad it needs to follow someone to not feel alone.\nAim this on anybody to target them indefinitely!"},
+	
+    {"key":"LtsOItems_RootBeer_Name","value":"Rootbeer"},
+    {"key":"LtsOItems_RootBeer_Desc","value":"<b>BSODA VARIANT</b>\nRootbeer\nThe Principal wouldn't allow us to sell actual beer, so we have this instead!\nThis rootbeer is very good, and can help you get a large group of threats to go away!"},
+
+	{"key":"LtsOItems_ShakenSoda_Name","value":"Shaken Soda"},
+    {"key":"LtsOItems_ShakenSoda_Desc","value":"<b>BSODA VARIANT</b>\nShaken Soda\nSomeone just shook this can of soda and it's pretty dangerous to leave alone.\nIt might even leave a puddle of soda when it explodes!"},
+	
+	{"key":"LtsOItems_ShrinkRay_Name","value":"Shrink Ray"},
+	{"key":"LtsOItems_ShrinkRay_Desc","value":"<b>BSODA VARIANT</b>\nShrink Ray\nA ray that shoots a strong beam that is capable of squishing everyone!\nAnd also pushing them!"},
+
+	{"key":"LtsOItems_EnergyFlavoredZestySoda_Name","value":"Energy Flavored Zesty Soda"},
+	{"key":"LtsOItems_EnergyFlavoredZestySoda_Desc","value":"<b>BSODA VARIANT</b>\nEnergy Flavored Zesty Soda\nA fizzy blast of energy!\nIt's a super formula of zesties and BSODAs mixed together!\nLet's have a full vigor ready to go!"},
+	
+	{"key":"LtsOItems_OSODA_Name","value":"OSODA"},
+	{"key":"LtsOItems_OSODA_Desc","value":"<b>BSODA VARIANT</b>\nOSODA\nA orange-flavored energetic drink!\nSince it has a fruit, its pushing powers are a bit weakened.\nWhich means people can go through, at least this drink creates a soda-sized puddle..."},
+	
+	{"key": "LtsOItems_LemonSoda_Name", "value": "Lemon Soda"},
+    {"key": "LtsOItems_LemonSoda_Desc", "value": "<b>BSODA VARIANT</b>\nLemon Soda\nA fresh taste of lemon to take things in a spite turn!\nAnyone who's splashed with this super BSODA will be stunned by its acid touch."},
+	
+	{"key": "LtsOItems_FrogInACan_Name", "value": "Frog in a Can"},
+    {"key": "LtsOItems_FrogInACan_Desc", "value": "<b>BSODA VARIANT</b>\nFrog in a Can\nThat mischevious bully crammed a frog inside this can as a prank!\nWorks great for distracting people!"},
+
+	{"key": "LtsOItems_BSODAGun_Name", "value": "BSODA Gun"},
+    {"key": "LtsOItems_BSODAGun_Desc", "value": "<b>BSODA VARIANT</b>\nBSODA Gun\nIf you need to drink something as fast as a bullet, this was designed for it!"},
+	
+	{"key": "LtsOItems_DietDietSoda_Name", "value": "Diet Diet BSODA"},
+    {"key": "LtsOItems_DietDietSoda_Desc", "value": "<b>BSODA VARIANT</b>\nDiet Diet BSODA\nEver needed an even HEALTHIER alternative to BSODA?\nThis one has ragus instead of sugar! It also has green."},
+	
+	{"key": "LtsOItems_DietDietDietSoda_Name", "value": "Diet Diet Diet BSODA"},
+    {"key": "LtsOItems_DietDietDietSoda_Desc", "value": "<b>BSODA VARIANT</b>\nDiet Diet Diet BSODA\nThe Diet Diet BSODA's were still not healthy enough, so this BSODA has nothing at all!\nIt can't even MOVE, that's how much nothing it has!"},
+	
+	{"key": "LtsOItems_DietDietDietDietSoda_Name", "value": "Diet Diet Diet Diet BSODA"},
+    {"key": "LtsOItems_DietDietDietDietSoda_Desc", "value": "<b>BSODA VARIANT</b>\nDiet Diet Diet Diet BSODA\nYou can't get healthier than this!\nIt's so healthy, it multiplies itself and healthing healthiness more than health healthiness health health.\nContaining only 0% liquid and about 100% raguS, it's the perfect drink!"},
+	
+	{"key": "LtsOItems_Plunger_Name", "value": "Plunger"},
+    {"key": "LtsOItems_Plunger_Desc", "value": "<b>BSODA VARIANT</b>\nPlunger\nWe don't even have bathrooms, what is this for?!\nAt least it blinds people for some time...\nHopefully this is not for some kind of boss fight agaisnt a teacher..."},
+	
+	 {"key":"LtsOItems_BloxyCola_Name","value":"Bloxy Cola"},
+    {"key":"LtsOItems_BloxyCola_Desc","value":"<b>BSODA VARIANT</b>\nBloxy Cola\nRefreshing blocky soda.\nFor having different physics, it leaves stains in the floor <i>(DUH!)</i>.\nThis mess is as slippery as <color=yellow>'Nana Peels</color>."},
+	
+	{"key":"LtsOItems_Rotatoda_Name","value":"Rotatoda"},
+    {"key":"LtsOItems_Rotatoda_Desc","value":"<b>BSODA VARIANT</b>\nRotatoda\nSome students got mad we kept making healthier sodas, so we made something unhealthy!\nThe mixture of ingredients even allows the soda to think on it's own, and rotate!"},
+	
+	{"key":"LtsOItems_SpillingBSODA_Name","value":"Spilling BSODA"},
+    {"key":"LtsOItems_SpillingBSODA_Desc","value":"<b>BSODA VARIANT</b>\nSpilling BSODA\nAw man! This was a perfect BSODA to drink!\nIt's spilling all around!\nNobody can walk through it because of how sticky it is!"},
+
+	{"key":"LtsOItems_SubspaceSoda_Name","value":"Subspace Soda"},
+    {"key":"LtsOItems_SubspaceSoda_Desc","value":"<b>BSODA VARIANT</b>\nSubspace Soda\nThis soda tries to imitate the super technology of a Subspace Tripmine.\nUnfortunately, it's not fully stable, you never know when it's gonna fail...\nLeave it on the floor, and it should explode in a bit... <i>maybe!</i>"},
+	
+	{"key":"LtsOItems_RGBODA_Red_Name","value":"RGBODA"},
+	{"key":"LtsOItems_RGBODA_Red_Desc","value":"<b>BSODA VARIANT</b>\nRGBODA (Red)\nA slightly faster BSODA with a taste of... <color=red>RED?!</color>\nIt can bounce walls as well."},
+	
+	{"key":"LtsOItems_RGBODA_Green_Name","value":"RGBODA"},
+	{"key":"LtsOItems_RGBODA_Green_Desc","value":"<b>BSODA VARIANT</b>\nRGBODA (Green)\nSpitting this into a wall could start a \"<i><color=green>Green Revenge!</color></i>\";\nThrowing two more foams to the sides!"},
+	
+	{"key":"LtsOItems_RGBODA_Blue_Name","value":"RGBODA"},
+	{"key":"LtsOItems_RGBODA_Blue_Desc","value":"<b>BSODA VARIANT</b>\nRGBODA (Blue)\nThe only one normal tastes like a BSODA and acts like a normal BSODA.\nWhat were you expecting, water?"},
+	
+	{"key":"LtsOItems_PSODA_Name","value":"PSODA"},
+    {"key":"LtsOItems_PSODA_Desc","value":"<b>BSODA VARIANT</b>\nPSODA\nSprays out a <i>shocking</i> liquid!\nNow with 100% more zap!\nUse this to electrocute people with this super-charged drink!"},
+	
+	{"key":"LtsOItems_RetroFireFlower_Name_3","value":"Retro Fire Flower (3)"},
+	{"key":"LtsOItems_RetroFireFlower_Name_2","value":"Retro Fire Flower (2)"},
+	{"key":"LtsOItems_RetroFireFlower_Name_1","value":"Retro Fire Flower (1)"},
+	{"key":"LtsOItems_RetroFireFlower_Desc","value":"<b>BSODA VARIANT</b>\nRetro Fire Flower\nA very odd-looking flower that came from some <i>retro</i> place(s)...\nUse it three times to kill your enemies!"},
+	
+	{"key":"LtsOItems_BaconSoup_Name","value":"Bacon Soup"},
+	{"key":"LtsOItems_BaconSoup_Desc","value":"<b>BSODA VARIANT</b>\nBacon Soup\nA warm can of bacon-y goodness, you surely will like this.\nIt's made just the way <i>the little devil</i> likes it!\nThe spray might slow down the unfortunate folks by a little, while also giving you some <i>classical tasting energy</i>."},
+	
+	{"key":"LtsOItems_LoudSpeaker_Name","value":"Loud Speaker"},
+	{"key":"LtsOItems_LoudSpeaker_Desc","value":"<b>BSODA & ALARM CLOCK VARIANT</b>\nLoud Speaker\nAn old loud speaker found in Baldi's Lab!\nIt's so loud that it could probably push people away from it for a few seconds!\n"},
+	
+	{"key":"LtsOItems_RSODA_Name","value":"RSODA"},
+    {"key":"LtsOItems_RSODA_Desc","value":"<b>BSODA VARIANT</b>\nRSODA\nThis hot sau- <i>drink</i> is so spicy,\nthat it literally gets angrier and <b>faster</b> with every person it hits."},
+	
+	{"key":"LtsOItems_HomemadeBSODA_Name","value":"Homemade BSODA"},
+	{"key":"LtsOItems_HomemadeBSODA_Desc","value":"<b>BSODA VARIANT</b>\nHomemade BSODA\nThis BSODA isn't actually homemade,\n it was made in a factory: a bomb factory, it's a bomb.\nIt could explode people for 30 seconds, that's how advanced it is."},
+	
+	{"key":"LtsOItems_SnowGun_Name_3","value":"(3) Snow Gun"},
+	{"key":"LtsOItems_SnowGun_Name_2","value":"(2) Snow Gun"},
+	{"key":"LtsOItems_SnowGun_Name_1","value":"(1) Snow Gun"},
+	{"key":"LtsOItems_SnowGun_Desc","value":"<b>BSODA VARIANT</b>\nSnow Gun\nTired of wanting to have a snowball fight but can't shoot them and always miss?\nWell, we have this! Although it can only hold 3 at most."},
+	
+	{"key":"LtsOItems_SpikyBall_Name","value":"Spiky Ball"},
+	{"key":"LtsOItems_SpikyBall_Desc","value":"<b>BSODA VARIANT</b>\nSpiky Ball\nDrop this toy on the floor and it will start to bounce around, it'll hurt once it hits you!"},
+	
+	{"key":"LtsOItems_MSODA_Name","value":"MSODA"},
+	{"key":"LtsOItems_MSODA_Desc","value":"<b>BSODA VARIANT</b>\nMSODA\nThis thing tastes so good that it can literally attract everyone to it!\nThey'll all rush towards it! ...Or maybe it's just magnetic to matter."},
+	
+	{"key":"LtsOItems_PlasticSoda_Name","value":"Plastic Soda"},
+    {"key":"LtsOItems_PlasticSoda_Desc","value":"<b>BSODA VARIANT</b>\nPlastic Soda\nLooks and tastes cheap.\nIts quality even reflects its own resistance: after 3 hits, it's no longer there!"},
+	
+	 {"key":"LtsOItems_AcidSoda_Name","value":"Acid Soda"},
+    {"key":"LtsOItems_AcidSoda_Desc","value":"<b>BSODA VARIANT</b>\nAcid Soda\nA highly corrosive soda that's definitely just a little more citric!\nHowever, handle it with care, it could potentially blind a few folks when in contact with the eyes!"},
+	
+	 {"key":"LtsOItems_ConfettiCannon_Name","value":"Confetti Cannon"},
+    {"key":"LtsOItems_ConfettiCannon_Desc","value":"<b>BSODA VARIANT</b>\nConfetti Cannon\nNeed something to celebrate parties at the Super Schoolhouse?\nYou've just met your best party pal here!\nJust activate the trigger and have a blast of confetti!\nIts technology allows it to praise over whoever is hit with it! Just don't ask who voiced it..."},
+	
+	{"key":"LtsOItems_CreepyBaldiBalloon_Name","value":"Creepy Baldi Balloon"},
+	{"key":"LtsOItems_CreepyBaldiBalloon_Desc","value":"<b>BSODA VARIANT</b>\nCreepy Baldi Balloon\nSome creepy half-deflated Baldi-shaped balloon that was found laying around.\nEveryone hates this thing!\nIts strength can push them away too."},
+	
+	{"key":"LtsOItems_ThreeSixtySODA_Name","value":"360SODA"},
+	{"key":"LtsOItems_ThreeSixtySODA_Desc","value":"<b>BSODA VARIANT</b>\n360SODA\nThis soda has enough <i>fire power</i> to be launched in 16 cardinal directions!\nIf you don't know where your enemies are, they could be anywhere!!"},
+	
+	{"key":"LtsOItems_SpinyBSODA_Name","value":"Spiny BSODA"},
+	{"key":"LtsOItems_SpinyBSODA_Desc","value":"<b>BSODA VARIANT</b>\nSpiny BSODA\nBe careful throwing this cactus can!\nIt could explode and launch a bunch of spikes around...\nHow the heck is this considered drinkable??"},
+	
+	{"key":"LtsOItems_LaboratoryBSODA_Name","value":"Laboratory BSODA"},
+	{"key":"LtsOItems_LaboratoryBSODA_Desc","value":"<b>BSODA VARIANT</b>\nLaboratory BSODA\nThis purpleish BSODA can throw four diets in a single shot,\nand in many angles!"},
+	
+	{"key":"LtsOItems_CeleSoda_Name","value":"CeleSoda"},
+	{"key":"LtsOItems_CeleSoda_Desc","value":"<b>BSODA VARIANT</b>\nCeleSoda\nSurprise! It's someone's birthday!"},
+	
+	{"key":"LtsOItems_ExplodaBSODA_Name","value":"Exploda-BSODA"},
+	{"key":"LtsOItems_ExplodaBSODA_Desc","value":"<b>BSODA VARIANT</b>\nExploda-BSODA\nIt's a BSODA that goes boom on impact.\nMaybe now you can taste personal space."},
+	
+	{"key":"LtsOItems_OneLiterBSODA_Name","value":"1-Liter BSODA"},
+	{"key":"LtsOItems_OneLiterBSODA_Desc","value":"<b>BSODA VARIANT</b>\n1-Liter BSODA\nWhy drink one can when you can have up to seven full drinks?"},
+	
+	{"key":"LtsOItems_YSODA_Name","value":"YSODA"},
+	{"key":"LtsOItems_YSODA_Desc","value":"<b>BSODA VARIANT</b>\nYSODA\nThe YSODA contains special ingredients that will make you feel like metal!\nIt might even metalify anything it hits! Yoy!"},
+  
+	
+	
+	
+	{"key":"LtsOItems_WDYesSquee_Name","value":"WD-YesSquee"},
+    {"key":"LtsOItems_WDYesSquee_Desc","value":"<b>WD40 VARIANT</b>\nWD-YesSquee\nTired of the <i>loud</i> silence, making you feel a little alone?\nWD-YesSquee can solve your problems!\nSpray it anywhere to make everything around you incredibly loud!\nThis may even include libraries!"},
+	
+	 {"key":"LtsOItems_WODANoSquee_Name","value":"WODA-NoSquee"},
+    {"key":"LtsOItems_WODANoSquee_Desc","value":"<b>WD40 VARIANT</b>\nWODA-NoSquee\nWant to have a nice drink without making so much noise?\nWell, this drink can make your drinking much more silent!\nWatch out where you spray it, though.\nAnything cleaned by this product will make stuff near them silent as well!"},
+	
+	{"key":"LtsOItems_WDMoreFreeze_Name","value":"WD-MoreFreeze"},
+	{"key":"LtsOItems_WDMoreFreeze_Desc","value":"<b>WD-40 VARIANT</b>\nWD-MoreFreeze\nNeeded an even fresh clean up in the noisy hallways?\nThis thing solves that for you, it mute things and give you a *breeze* that slows down!"},
+	
+	{"key":"LtsOItems_WDRetroSquee_Name","value":"WD-RetroSquee"},
+	{"key":"LtsOItems_WDRetroSquee_Desc","value":"<b>WD-40 VARIANT</b>\nWD-RetroSquee\nWhen your doors are too loud and you need 'em to be QUIET!"},
+	
+	{"key":"LtsOItems_MultiPurposeCleaner_Name","value":"Multi Purpose Cleaner"},
+	{"key":"LtsOItems_MultiPurposeCleaner_Desc","value":"<b>WD-40 VARIANT</b>\nMulti Purpose Cleaner\nuUse this to a clean up sound and floor, to a degree that it is slippery too!"},
+	
+	 {"key":"LtsOItems_WDNoSqueeX_Name_3","value":"(3) WD-NoSqueeX"},
+	 {"key":"LtsOItems_WDNoSqueeX_Name_2","value":"(2) WD-NoSqueeX"},
+	 {"key":"LtsOItems_WDNoSqueeX_Name_1","value":"(1) WD-NoSqueeX"},
+	 {"key":"LtsOItems_WDNoSqueeX_Desc","value":"<b>WD-40 VARIANT</b>\nWD-NoSqueeX\nA deluxe version of the WD-NoSquee.\nThis thing is so handy, you could use it to keep a whole school quiet!\n...Well, probably not; but, it's a pretty big radius."},
+
+	
+	
+	
+	{"key":"LtsOItems_HairSpray_Name","value":"Hair Spray"},
+    {"key":"LtsOItems_HairSpray_Desc","value":"<b>APPLE VARIANT</b>\nHair Spray\nThe classic hair spray, makes people grow hair.\nThis is only needed for people who have suffered bullying for being bald.\nSurely, no teacher would be that immature to drink one of these..."},
+	
+	{"key":"LtsOItems_GreenApple_Name","value":"A Green Apple for Baldi"},
+    {"key":"LtsOItems_GreenApple_Desc","value":"<b>APPLE VARIANT</b>\nA Green Apple For Baldi\n A tasty green apple that has less sugar to keep students healthy!\nBaldi doesn’t like green apples but still eats them if given.\nYou can still put the apple in a plant to make it mature."},
+	
+	{"key":"LtsOItems_OminousApple_Name","value":"Ominous Apple"},
+    {"key":"LtsOItems_OminousApple_Desc","value":"<b>APPLE VARIANT</b>\nOminous Apple\nThis apple isn't as smelly as the other ones. So, Baldi can't pick it up if he gets you.\nBut you can throw it! Surely, he'll notice this way."},
+	
+	{"key":"LtsOItems_PlasticApple_Name","value":"Plastic Apple"},
+    {"key":"LtsOItems_PlasticApple_Desc","value":"<b>APPLE VARIANT</b>\nPlastic Apple\nAn apple made with cheap plastic to look like a real one.\nYou can give it to Baldi, but he might not turn out that happy about it..."},
+	
+	{"key":"LtsOItems_Air_Name","value":"Air"},
+	{"key":"LtsOItems_Air_Desc","value":"<b>APPLE VARIANT</b>\nAir\nLiterally nothing.\nBaldi seems to enjoy it, though he's now being pushed around by... nothing?"},
+	
+	{"key":"LtsOItems_BanApple_Name","value":"BanApple"},
+	{"key":"LtsOItems_BanApple_Desc","value":"<b>APPLE & 'NANA PEEL VARIANT</b>\nBanApple\nA banana on top of an apple.\nEating it should give you enough stamina to run, but only after slipping through the peel!\nOr, you could give to Baldi as a prank.\n"},
+	
+	{"key":"LtsOItems_CaramelizedApple_Name","value":"Caramelized Apple"},
+	{"key":"LtsOItems_CaramelizedApple_Desc","value":"<b>APPLE</b>\nCaramelized Apple\nA very sweety apple covered on the sweetest caramel!\nBaldi could stay eating for many minutes!\nBut, the sugar rush also pushes him to his slapping limit."},
+	
+	 {"key":"LtsOItems_TeddyBear_Name","value":"Teddy Bear for Playtime"},
+	{"key":"LtsOItems_TeddyBear_Desc","value":"<b>APPLE VARIANT</b>\nTeddy Bear for Playtime\nA cuddly friend to make Playtime genuinely happy.\nNo jumpropes can make someone as happy as having a true fluffy friend around you."},
+	
+	{"key":"LtsOItems_ShinyTrophy_Name","value":"Shiny Trophy"},
+	{"key":"LtsOItems_ShinyTrophy_Desc","value":"<b>APPLE VARIANT</b>\nShiny Trophy\nThis trophy is only given out to the best of the best!\nBaldi loves to congratulate his hard working students <b>in sight</b>,\nso he will wait much longer after you get a question right!\nBut if he finds out this isn't yours..."},
+	
+	{"key":"LtsOItems_CupOfTeaForPrincipal_Name","value":"Cup of Tea for Principal"},
+	{"key":"LtsOItems_CupOfTeaForPrincipal_Desc","value":"<b>APPLE VARIANT</b>\nCup of Tea for Principal\nThe Principal left around his tea, and you can bring it back!\nHe'll make sure to drink it if he gets it.\nIt even makes him nicer to people! Sometimes."},
+	
+	{"key":"LtsOItems_ExplosiveAppleJuice_Name","value":"Explosive Apple Juice"},
+	{"key":"LtsOItems_ExplosiveAppleJuice_Desc","value":"<b>APPLE VARIANT</b>\nExplosive Apple Juice\nWow! This.. seems dangerous.\nBut Baldi will probably try it anyway!\nDon't worry though, it's not THAT dangerous."},
+  
+	{"key":"LtsOItems_PizzaEveryone_Name_6","value":"(6) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Name_5","value":"(5) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Name_4","value":"(4) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Name_3","value":"(3) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Name_2","value":"(2) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Name_1","value":"(1) A Pizza for Everyone"},
+	{"key":"LtsOItems_PizzaEveryone_Desc","value":"<b>APPLE</b>\nA Pizza for Everyone\nA tasty meal Baldi borrowed from the campsite!\nIts multi-use nature allows everyone to have a slice!\nJust throw one slice and they'll catch it like dogs!"},
+	
+	
+	
+	{"key":"LtsOItems_FabricatedBusPass_Name","value":"Fabricated Bus Pass"},
+    {"key":"LtsOItems_FabricatedBusPass_Desc","value":"<b>BUS PASS VARIANT</b>\nFabricated Bus Pass\nThis little dirty item might trick some folks that manages the Field Trip minigames.\nBut it's not 100% guaranteed! In fact, it is 25%!"},
+	
+	{"key": "LtsOItems_OneDollarCheck_Name", "value": "One Dollar Check"},
+	{"key": "LtsOItems_OneDollarCheck_Desc", "value": "<b>BUS PASS VARIANT</b>\nOne Dollar Check\nA piece of paper that is worth four shiny quarters!\nYou can redeem it at Johnny's store!"},
+	
+	{"key":"LtsOItems_DeluxeBusPass_Name","value":"Deluxe Bus Pass"},
+    {"key":"LtsOItems_DeluxeBusPass_Desc","value":"<b>BUS PASS VARIANT</b>\nDeluxe Bus Pass\nWhere did you get this double-rewarding-pass from?\n<i>\"An ant\"?</i> What the heck is that supposed to mean?!"},
+	
+	
+	
+	{"key":"LtsOItems_SpecialPotion_Name","value":"Special Potion"},
+	{"key":"LtsOItems_SpecialPotion_Desc","value":"<b>INVISIBILITY ELIXIR VARIANT</b>\nSpecial Potion\nA special potion that phases the consumer out of existance for a short time!\nYou can use it to sneak through people without them noticing!"},
+	
+	
+	{"key":"LtsOItems_StretchyStickyGloves_Name","value":"Stretchy Sticky Gloves"},
+	{"key":"LtsOItems_StretchyStickyGloves_Desc","value":"<b>STRETCHY GLOVES VARIANT</b>\nStretchy Sticky Gloves\nWho knew literal slime gloves could be useful?\nYou can grab things, and they grab you back!"},
+	
+	
+	
+	{"key":"LtsOItems_LostAndFoundBox_Name","value":"Lost and Found Box"},
+	{"key":"LtsOItems_LostAndFoundBox_Desc","value":"<b>LOST ITEM VARIANT</b>\nLost and Found Box\nAny student would be happy to find one of these!"},
+
+
+	
+	{"key": "LtsOItems_Vfx_PlaytimeTeddyBear_0", "value": "*GASP*"},
+	{"key": "LtsOItems_Vfx_PlaytimeTeddyBear_1", "value": "TEDDY BEAR!"},
+	{"key": "LtsOItems_Vfx_PlaytimeTeddyBear_2", "value": "I LOVE TEDDY BEARS!"},
+	{"key": "LtsOItems_Vfx_Explode", "value": "*BOOM*"},
+	{"key": "LtsOItems_Vfx_Splash", "value": "*SPLASH*"},
+	{"key": "Sfx_Fuse", "value": "*FUSING*"},
+	{"key": "LtsOItems_Vfx_Drinking", "value": "*Drinking*"},
+	{"key": "LtsOItems_Vfx_Bounce", "value": "*BOUNCE*"},
+	{"key": "LtsOItems_Vfx_Inflate", "value": "*Inflating*"},
+	{"key": "LtsOItems_Vfx_Cough", "value": "*COUGH*"},
+	{"key": "LtsOItems_Vfx_AcidBurn", "value": "*ACID BURN*"},
+	{"key": "LtsOItems_Vfx_Air", "value": "*FUUSSHHHH*"},
+	{"key": "LtsOItems_Vfx_Activated", "value": "*Activation*"},
+	{"key": "LtsOItems_Vfx_BaldiFavoriteSound", "value": "*Best song ever*"},
+	{"key": "LtsOItems_Vfx_AnnoyingNoise", "value": "*Extremely annoying noise*"},
+	{"key": "LtsOItems_Vfx_HighPitchNoise", "value": "*High pitch noise*"},
+	{"key": "LtsOItems_Vfx_Scream", "value": "*SCREAM*"},
+	{"key": "LtsOItems_Vfx_Ribbit", "value": "*CROAKING*"},
+	{"key": "LtsOItems_Vfx_Surprise", "value": "*SURPRISE!*"},
+	{"key": "LtsOItems_Vfx_Suction", "value": "*SUCK*"},
+	{"key": "LtsOItems_Vfx_Womp", "value": "*Womp*"},
+	{"key": "LtsOItems_Vfx_BAL_FreshAir_1", "value": "Hmm...! Fresh air!"},
+	{"key": "LtsOItems_Vfx_BAL_FreshAir_2", "value": "It's been so long since I've breathed it!"},
+	{"key": "LtsOItems_Vfx_BAL_FreshAir_3", "value": "I should get outside more often."},
+	{"key": "LtsOItems_Vfx_BAL_Hair", "value": "I've suffered from my baldness, long enough."},
+	{"key": "LtsOItems_Vfx_BAL_HairCut", "value": "<i>Cutting hair</i>"},
+	{"key": "LtsOItems_Vfx_BAL_Plastic", "value": "Ahh! This is plastic!"},
+	{"key": "LtsOItems_Vfx_BAL_FabPass_1", "value": "Wait a minute..."},
+	{"key": "LtsOItems_Vfx_BAL_FabPass_2", "value": "This is a fake one."},
+	{"key": "LtsOItems_Vfx_BAL_FabPass_3", "value": "Sorry there, I can't let you go in this field trip."},
+	{"key": "LtsOItems_Vfx_BAL_FabPass_4", "value": "You'll need a real one if you want to go in a field trip!"},
+	{"key": "LtsOItems_Vfx_BAL_TrophyCatch_1", "value": "Woah! A shiny tro-"},
+	{"key": "LtsOItems_Vfx_BAL_TrophyCatch_2", "value": "Wait, you didn't even earn this prize."},
+	{"key": "LtsOItems_Vfx_BAL_TrophyCatch_3", "value": "Come back here!"},
+	{"key": "LtsOItems_Vfx_Drinking", "value": "*Drinking*"},
+	{"key": "LtsOItems_Vfx_OoohBanana_1", "value": "*JUNGLE MUSIC*"},
+	{"key": "LtsOItems_Vfx_OoohBanana_2", "value": "OOOH!"},
+	{"key": "LtsOItems_Vfx_OoohBanana_3", "value": "BA"},
+	{"key": "LtsOItems_Vfx_OoohBanana_4", "value": "BANA"},
+	{"key": "LtsOItems_Vfx_OoohBanana_5", "value": "BANANA!"},
+	{"key": "LtsOItems_Vfx_LowBass", "value": "*LOW BASS*"}
+]}

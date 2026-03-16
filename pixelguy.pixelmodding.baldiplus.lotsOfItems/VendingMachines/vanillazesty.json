@@ -1,0 +1,22 @@
+{
+  "sodaMachineWeight": 85,
+  "usesLeft": 1,
+  "normalTextureFileName": "vanillazesty.png",
+  "outOfStockTextureFileName": "vanillazestyout.png",
+  "items": [
+    {
+      "item": "VanillaZestyBar",
+      "weight": 75,
+      "mod_guid": "pixelguy.pixelmodding.baldiplus.lotsOfItems"
+    }
+  ],
+  "allowedLevels": [
+    "F1",
+    "F2",
+    "F3",
+	"F4",
+	"F5",
+    "END",
+    "INF10"
+  ]
+}

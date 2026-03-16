@@ -1,0 +1,22 @@
+{
+  "sodaMachineWeight": 65,
+  "usesLeft": 1,
+  "normalTextureFileName": "SparklyWaterMachine.png",
+  "outOfStockTextureFileName": "SparklyWaterMachine_Used.png",
+  "items": [
+    {
+      "item": "SparklyWater",
+      "weight": 100,
+      "mod_guid": "pixelguy.pixelmodding.baldiplus.lotsOfItems"
+    }
+  ],
+  "allowedLevels": [
+    "F1",
+    "F2",
+    "F3",
+	"F4",
+	"F5",
+    "END",
+    "INF10"
+  ]
+}

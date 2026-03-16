@@ -17,7 +17,7 @@ public class ITM_GatewayTeleporter : ITM_GenericTeleporter
         for (int i = 0; i < pm.ec.Elevators.Count; i++)
         {
             var el = pm.ec.Elevators[i];
-            if (lastPickedElevator != el && el.IsOpen && el.Powered)
+            if (lastPickedElevator != el && el.GateIsOpen && el.Powered)
                 exclusiveElevators.Add(el);
         }
 

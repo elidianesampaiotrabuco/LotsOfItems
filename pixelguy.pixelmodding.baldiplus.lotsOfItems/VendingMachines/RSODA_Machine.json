@@ -1,0 +1,22 @@
+{
+  "sodaMachineWeight": 65,
+  "usesLeft": 1,
+  "normalTextureFileName": "RSODA_Machine.png",
+  "outOfStockTextureFileName": "RSODA_Machine_Out.png",
+  "items": [
+    {
+      "item": "RSODA",
+      "weight": 100,
+      "mod_guid": "pixelguy.pixelmodding.baldiplus.lotsOfItems"
+    }
+  ],
+  "allowedLevels": [
+    "F1",
+    "F2",
+    "F3",
+	"F4",
+	"F5",
+    "END",
+    "INF10"
+  ]
+}

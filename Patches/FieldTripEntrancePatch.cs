@@ -163,7 +163,7 @@ internal static class FieldTripRelatedPatch
             Singleton<CoreGameManager>.Instance.audMan.PlaySingle(LotOfItemsPlugin.assetMan.Get<SoundObject>("audBump"));
 
             Vector3 ogPos = player.transform.position,
-            elevatorPos = pitStopMan.Ec.elevators[0].InsideCollider.transform.position;
+            elevatorPos = pitStopMan.Ec.Elevators[0].transform.position;
             float t = 0;
             while (true)
             {
